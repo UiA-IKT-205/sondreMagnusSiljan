@@ -1,4 +1,4 @@
-package piano.one
+package com.example.piano
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
